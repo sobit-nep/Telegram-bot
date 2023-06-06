@@ -29,7 +29,7 @@ This Python script is a Telegram bot that tracks and stores the number of unique
 
 5. Define the group IDs to track:
 
-    Modify the group_ids variable in main.py to include the desired group IDs you want to track.
+    Modify the group_ids variable in main.py to include the desired group IDs that you want to track.
 
 ## Usage
 Run the script using the following command:
